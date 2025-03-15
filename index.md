@@ -1,7 +1,7 @@
 # title
 add a title
 
-~~~Python
+~~~
 print("Hello World")
 ~~~
 
